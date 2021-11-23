@@ -1,3 +1,3 @@
 # BasicAPIRESTful
 
-ApiRESTful desarrollada en JAVA con el framework spring.
+ApiRESTful básica desarrollada en JAVA con el framework spring.
